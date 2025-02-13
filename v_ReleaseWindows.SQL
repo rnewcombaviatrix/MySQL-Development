@@ -1,3 +1,4 @@
+-- Author: rnewcomb@aviatrix.com
 create view v_ReleaseWindows AS 
 SELECT 
     `v_Releases`.`Type` AS `Type`,
