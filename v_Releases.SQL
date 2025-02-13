@@ -1,3 +1,4 @@
+-- Author: rnewcomb@aviatrix.com
 CREATE VIEW `v_Releases` AS 
 WITH RECURSIVE cte1 AS (
     SELECT 
